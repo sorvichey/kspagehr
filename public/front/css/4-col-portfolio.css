@@ -1,0 +1,440 @@
+/*!
+ * Start Bootstrap - 4 Col Portfolio (https://startbootstrap.com/template-overviews/4-col-portfolio)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-4-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+  background: #f2f2f2;
+  font-size: 13px;
+}
+.pd-vdoo {
+	margin: 5px 15px;
+}
+.list-group-item {
+	padding: 7px 9px;
+}
+.form-control, .btn {
+	font-size: 13px;
+}
+.dropdown-menu {
+    margin-top: 18px;
+	border-radius: 0;
+	background: #fff;
+	border:none;
+}
+.navbar, .pd-0 {
+    padding: 0;
+}
+.company-logo {
+	width: 120px;
+}
+.pd-l {
+	padding-left: 0;
+}
+.pd {
+	padding: 5px;
+}
+.mr {
+	margin: 5px;
+}
+.pagination .active >span {
+	background: #4dadf7;
+	color: #fff;
+	padding: 10px 15px;
+}
+.page-title {
+	background: #fff;
+    color: #000;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 800;
+}
+ul#menu_top li.nav-item, .blue-job{
+	font-size: 13px;
+	margin-left: 0;
+}
+.pagination > li > span{
+    font-weight: 800;
+    border: 1px solid #ccc;
+    padding: 9px 15px;
+}
+.pagination > li > a{
+    font-weight: 800;
+    border: 1px solid #ccc;
+    padding: 9px 15px;
+}
+.top-r {
+	padding: 15px 15px 5px 15px;
+	background: #fff;
+	border: 1px solid #eee;
+	text-align: center;
+}
+
+h5 {
+	color: #4dadf7;
+	font-size: 15px;
+	font-weight: 700;
+	margin-top: -5px;
+}
+.text-job {
+	padding: 0 10px;
+	border-radius: 4px;
+	color: #fff;
+	background: #3F51B5;
+}
+h6 {
+	color: #1A237E;
+	font-size: 14px;
+	font-weight: 700;
+}
+.txt-gray {
+	color: #444;
+}
+.search-job {
+	background: #eee !important;
+	border-radius: 5px;
+    line-height: 0;
+}
+.blue-job {
+	color: #1A237E;
+	font-weight: 700;
+}
+.photo {
+	padding: 5px 0;
+}
+.row-vdoo {
+	margin-left: 0;
+	margin-right: 0;
+}
+.nav-link {
+	padding: 1px;
+    color: #111;
+    list-style-type: none;
+}
+.jt, {
+	color: #0b79b6;
+	font-size: 17px;
+}
+.mt-4, .my-4 {
+     margin-top: -16px!important; 
+}
+li {
+	list-style: none;
+	font-weight: 700;
+}
+.bg-default {
+	padding-top: 20px;
+    padding-bottom: 20px;
+    background: #fff;
+    color: #000;
+	border-top: 1px solid #ccc;
+}
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.orange {
+	border: 1px solid #000;
+	color: #000;
+}
+.total-job {
+	border-radius: 25px;
+	background: #007bff;
+	padding: 1px 15px;
+	color: #000;
+}
+.job-vdoo {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-weight: 700;
+	font-size: 20px;
+	color: #aaa;
+}
+.pagination {
+  margin-bottom: 30px;
+}
+.img-height {
+	max-height: 70px;
+	max-width: 100%;
+}
+
+.blue {
+	color: #1A237E;
+	font-size: 20px;
+	text-decoration: underline;
+	font-weight: 700;
+}
+.border {
+	background: #fff;
+	border-radius: 3px;
+	padding: 10px;
+}
+.training-course {
+	margin-top: -35px;
+}
+.pd-r {
+	padding-right: 0px;
+}
+.border-job {
+	background: #fff;
+	padding: 13px 9px;
+	border-radius: 4px;
+}
+.counter {
+	padding: 15px 0;
+}
+.ap {
+	background: #ccc;
+	color: #fff;
+	font-size: 17px;
+	padding: 5px 15px;
+}
+.b {
+	background: #fff;
+	padding: 5px;
+}
+.bg-dark {
+    background-color: #fff!important;
+}
+.form-control {
+	padding: 9px;
+	line-height: 1;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #111;
+    font-weight: 700;
+}
+
+.border-com {
+	border: 0px solid #eee;
+    line-height: 74px;
+    min-height: 74px;
+    padding: 2px;
+    margin: 5px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #111;
+    font-weight: 700;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #666;
+}
+.gray, .txt-cname{
+	color: #000;
+	font-size: 13px;
+}
+.search-button{
+	width: 233px;
+	background: #4dadf7;
+}
+.mobile { display: none;}
+.search-job
+{
+	padding: 3px 2px;
+}
+.hr-d {
+	border: 2px solid #4dadf7;
+}
+.m-t {
+	margin-top: 0;
+}
+.border-cat {
+	background: #fff;
+	border-top: 1px solid #ccc;
+    padding: 10px;
+}
+.category {
+	border-top: 1px solid #fff;
+	padding: 10px;
+}
+@media (min-width: 992px) {
+	.img-fluid {
+		margin-top: 17px;
+	}
+}
+@media (max-width: 991.98px){
+	.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid {
+		padding-right: 15px;
+		padding-left: 0px;
+	}
+	.training-course {
+		margin-top: -46px;
+	}
+}
+@media (min-width: 768px){
+
+	.training-course {
+		margin-top: -46px;
+	}
+	.navbar-brand {
+		display: inline-block;
+		padding-top: 0;
+		padding-bottom: 0;
+		margin-right: 1rem;
+		font-size: 1.25rem;
+		line-height: inherit;
+		white-space: nowrap;
+	}
+	.t 
+	.navbar-dark .navbar-nav .nav-link {
+		color: #111;
+		font-weight: 700;
+		padding: 5px 24px;
+	}	
+}
+
+@media (max-width: 767px) {
+	.training-course {
+		margin-top: 10px;
+	}
+	.desktop {
+		display: none;
+	}
+	.mobile {
+		 display: block;
+		 width: 100%;
+	}
+	.nv {
+		padding: 5px 24px;
+	}
+	.navbar-brand {
+		display: inline-block;
+		padding-top: 0;
+		padding-bottom: 0;
+		margin-right: 1rem;
+		font-size: 1.25rem;
+		line-height: inherit;
+		white-space: nowrap;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+		color: #111;
+		font-weight: 700;
+		padding: 5px 24px;
+	}	
+}
+
+@media (max-width: 479px) {
+    .search-job {
+		margin-top: -10px;
+	}
+	.counter, .rp {
+		padding: 0;
+	}
+	.search-box{
+		font-size: 13px;
+		padding: 0 10px;
+	}
+	.company-logo {
+		width: 100%;
+	}
+	.t {
+		font-size: 15px;
+	}
+	.jt, .txt-cname, .blue-job {
+		font-size: 13px;
+	}
+	ul#menu_top li.nav-item {
+		font-size: 13px;
+	}
+	.search-job
+	{
+		padding: 3px 2px;
+		margin-bottom: 0px;
+	}
+	.job-vdoo, .gray {
+		font-size: 13px;
+	}
+	.search-job {
+		border: 0;
+		margin-bottom: 0;
+	}
+	.search-button{
+		font-size: 13px;
+		width: 90px;
+	}
+	.mr {
+		margin: 2px;
+	}
+	.nv {
+		padding: 5px 24px;
+	}
+	.pd-r {
+		padding-right: 0px;
+	}
+	h5 {
+		margin-top: 10px;
+	}
+	.training-course {
+		margin-top: 10px;
+	}
+	.pr {
+		padding-right: 3px;
+		padding-left: 3px;
+	}
+	.navbar-brand {
+		display: inline-block;
+		padding-top: 0;
+		padding-bottom: 0;
+		margin-right: 1rem;
+		font-size: 1.25rem;
+		line-height: inherit;
+		white-space: nowrap;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+		color: #111;
+		font-weight: 700;
+		padding: 5px 24px;
+	}	
+}
+
+@media (max-width: 360px) {
+	.search-job {
+		margin-top: 10px;
+	}
+	.training-course {
+		margin-top: 10px;
+	}
+	.nv {
+		padding: 5px 24px;
+	}
+	.navbar-brand {
+		display: inline-block;
+		padding-top: 0;
+		padding-bottom: 0;
+		margin-right: 1rem;
+		font-size: 1.25rem;
+		line-height: inherit;
+		white-space: nowrap;
+	}
+	h5 {
+		margin-top: 10px;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+		color: #111;
+		font-weight: 700;
+		padding: 5px 24px;
+	}	
+}
+.txt-job{
+    font-size: 18px;
+}
+.a-block{
+	display:inline-block;width:100%;
+}
+.text-footer
+{
+	color: #3D5AFE;
+}
+.logo{
+	width: 200px;
+	padding: 10px;
+}
+.navbar-dark .navbar-toggler {
+    background: #4dadf7;
+    border-color: #4dadf7;
+}
